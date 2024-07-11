@@ -16,3 +16,4 @@ function receivesAFunction(callback) {
         return "This is an anonymous function!";
       };
   }
+  
